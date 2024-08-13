@@ -25,5 +25,3 @@ Your contributions are welcome! If you'd like to improve the To-Do List Web Appl
 ## License
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
-## Acknowledgements
-- A big thank you to everyone who has contributed to making this application better. Your efforts are greatly appreciated.
